@@ -1,6 +1,7 @@
 # VideoGameDb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
+![home page](https://github.com/momtaznussair/Video-Games-Database/blob/main/shots/main.png)
 
 ## Development server
 
